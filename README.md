@@ -19,11 +19,11 @@ Para utilizar o módulo de login, basta incluir o script de login na sua home-pa
 ## Prints do trabalho
 
 
-![Print 1](/public/imgs/ola_usuario.png)
+![Home com usuario logado](public/imgs/ola_usuario.png)
 
-![Print 2](/public/imgs/favoritar.png)
+![Servico favoritado](public/imgs/favoritar.png)
 
-![Print 2](/public/imgs/favoritados.png)
+![Pagina meus favoritos](public/imgs/favoritados.png)
 
 ## Atividade Pratica - Login + Personalizacao
 
